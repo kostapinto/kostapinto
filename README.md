@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kostapinto
+- 👀 I’m interested in Garmin, PHP, JS, Delphi, C
+- 🌱 I’m currently learning all what i need 
+- 💞️ I’m looking to collaborate on interesting projects 
+- 📫 You can write me to https://t.me/kostapinto_dev
